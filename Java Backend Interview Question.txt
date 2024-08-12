@@ -1,0 +1,333 @@
+1	 What do know about JAVA?
+2	 Why Java is Platform independent language?
+3	 What is JVM?
+4	 What is JDK,What do you get in JDK file?
+5	Explain Main method
+6	Why is the main method static in java?
+7	When we don't use static will program work or not?
+8	What is the difference between ERROR and EXCEPTION in java?
+9	What is the difference between Throw and Throws in java?
+10	What is final, finally and finalize in java?
+11	What is the default values assings to variable or instance?
+12	What is difference b/w ArrayList and Array?
+13	How can we add the element in array and ArrayList?
+14	What are the pillars of OOPs ?
+15	What is data Abstraction?
+16	What is JIT?
+17	What is ClassLoader?
+18	What is the memory allocation available in java?
+19	Will program run if we write "static public void main()"? 
+20	What is the default value stored in local variable?
+21	What is ASSOCIATION in Java?
+22	Define Copy Constructor in java?
+23	What is the Marker Interface?
+24	What is Object Cloning?
+25	Why is java not completely Object Oriented? 
+26	Define Wrapper classes in java?
+27	Define Singleton classes in Java?
+28	Define pakages in java and why we use packages in java?
+29	Can you implement pointer in java program?
+30	Difference b/w instance and local variable?
+31	Explain Java String Constant Pool?
+32	Explain the herarical structure of Exception handeling?What is an Exception?
+33	What is final keyword in java?
+34	What happens when main() isn't declared as static?
+35	What is JDK?What are the varient of JDK?
+36	Briefly explain about Access Specifier and types of Access Specifier in Java?
+37	Can Constructor retaurn a value?
+38	Explain "this" keyword in java?
+39	Explain "super" keyword in java?
+40	Expalin method overloading in java?
+41	Can we overload a static method?
+42	Define late Binding?
+43	Define Dynamic method Dispatch/runtime polymorphism?
+44	Why delete() function is fater in LinkedList than in Array?
+45	Give the briefing on the life cycle of a Thread
+46	Defference b/w  >> and  >>> operator
+47	What is "Generics" used in java programming?
+48	Explain Externalizable interface and where and why it is beng used?
+49	Explain Daemon Thread?
+50	Explain the term enumeration in java?
+51	Why java is dynamic in nature?
+52	Can you run a code before executing main method?
+53	How many times the finalize method called?
+54	Defference b/w JDK, JRE abd JVM?
+55	What is public static void main(String[] args)?
+56	Difference b/w Heap and Stack memory?
+57	Defference b/w == or equal() ?
+58	Why pointer are not used in java?
+59	What is JIT complier,Why we use it?
+60	How to declare Constant in java?
+61	Can we declare class,method ,variable as constant?
+62	What is break and continue statement ?Where are these used?
+63	What is class loader system?
+64	What is method Overloading and method Overriding.Expalin?
+65	Expalin type-casting in java ,when we required type casting?What are the types of type-casting?
+66	What is Objects?How many methods present in Object class and are they and also expalin briefly all? 
+67	How to create Object in java,What are the ways to create ?
+68	What is Encapsulation?
+69	Difference b/w local and global variable?
+70	Can class be private?
+71	What is good to use local variable or global variable?
+72	Can class be final?
+73	can class be final and public?
+74	Can class be final, public and static?
+75	How to modified method in java?
+76	Can we have final staic variable in class?
+77	Can we have final static public variable in a class?
+78	Can we have public abstract final static variable in a class?
+79	Why in java Multiple Inheritence is not allowed?
+80	Will static method call non-static method?
+81	Why to use Exceptional handeling in java?
+82	What is Synchronzied keyword in java?
+83	Difference b/w List and Set in collection framework?
+84	What are the steps of JDBC?
+85	What is the use of prepared Statement?
+86	What is Difference b/w Abstraction and interface?
+87	Difference b/w HashMap and HashTable?
+88	What is super class of HashMap?
+89	What is super class of ArrayList?
+90	What is super class of AbstractList?
+91	How do you achieve Abstraction?
+92	What is Interface?
+93	Do you know feature of Java 8 related to interface?
+94	Senario where we have 2 interfaces I1 and I2 ,both have same default method names as print() and there is a class which implement both interfaces,
+	so if especifically if we have to use print() method of I1 ,then how we get it?
+	
+96	What are the different type of Inheritence?
+97	What is String Class in java?
+98	How do we create String in java?
+99	Is String is Immutable?What is Immutability in java?
+100	What are the collection you used in your project? What are the interfaces present in Collection?
+101	Explain internal working of HashMap?
+102	In Multithreaded environment, Can you expalin thread life cycle?
+103	How thread goes to waiting state?
+104	When we should go for Comparator or Comparable?
+105	If there no method present in maker interface then What is the use of maker interface?
+106	What is the use of Serialization?
+107	What is Serial version UID, why it is used in Serilazation?
+108	
+109	How do you monitor your Spring boot Application
+110	Suppose your appliaction is not performing as Expected , May be your application is down or any apllication functionality is broken ,In that case how do you check the logs?
+111	What is Vertivcal Scaling and Horizontal Scaling?
+112	When you are Scaling horizontally ,how you deploying your application?
+113	When we Should use application.properties and when we should go for application.yaml/application.yml file?
+114	What is APIGateWay in Microservice architecture? 
+115	How Services are communicated to each other in microservies architecture?
+116	What is Hystresis?
+117	How do you achieve loose Coupling b/w 2 application or 2 services in microservice architectural environment?
+118	In Java  8 , What is metascape different from permGen?
+119	Can you start thread twice?
+120	How to handel Exception in java?
+121	Can we have try with multiple catch block?
+122	Difference b/w StringBuffer and StringBuilder?
+123	How to create Immutable class in java?
+124	Expalin life cycle of beans?
+125	What is @Transactional annotation in Spring?
+126	What is Discovery Service? What discovery service you are using in your project?
+127	What is fault torelence? What we have to do to have fault torelence?
+128	What is @HystrixCommand ?
+129	When we use API Gateway?
+130	How you resolve code redundency by using API Gateway?
+131	
+132	How you use ORM and JDBC, and what is diffrence b/w Orm and JDBC?
+133	If we use JDBC what is the benefit over ORM?
+134	What annotation you used in Spring boot?
+135	What is @Component?
+136	What is @ComponentScan?
+137	How @Autowire internally works?
+138	There is one Interface "Vehicle" and its implementation class is Car and Bike , if we only want to use Car ,what we have to do?
+139	How many ways to create a String?
+140	What is difference in using normal interface and default interface?
+141	Can we declare multiple main() method in one class?
+142	"There is 4 main method :
+					1) with Employee object as argument
+					2) with User Object as argument.
+					3)String[]  as an agrument.
+					4) Object as agument ,
+	 if we call each main method which will run?	
+	
+143	Why we use List?
+144	There is senario where you have to arrange Employee according to there salary, how you will do that using java 1.8 feature?
+145	There is problem where there is String is given "abcd" ,we have to return TRUE or FALSE based on there is exactly same element and same length, then TRUE ,
+	else repeated or length not same then return FALSE? 
+146	
+147	What is @EnableAutoConfiguration?
+148	If you don't want Emmbed Tomcat Server ,then what you do and how you create your own Web Server?
+149	How Consumer and Producer are different
+150	What is the Syntax of Consumer and Producer?
+151	What is Lambda Expression, Why we use it?
+152	What is the functional interface?
+153	What is the use of Runnable interface?
+154	What is Serializable ,how it is different from Externaliable?
+155	What is the internal implementation od Set? 
+156	Let take a String like your name, find out the count of particular occurance of each character?
+157	How many sorting technique you know? Which is more used and which has to be used for better time and space complexity ?
+158	How LinkedList inernally work and can you create your own LinkedList ?
+159	Suppose we have infinite LinkedList from both ends, you have to delete one of the node .How will you delete it.What approach you will use?
+160	How to search the particular element in LinkedList?
+161	How you add element in Set.Can you explain the algorithm?
+162	What is the return type of add() method in Set?
+163	What is the difference b/w SOAP and REST?
+164	What is difference b/w Spring and Spring Boot?
+165	What is the difference b/w ArrayList and HashSet?
+166	What design patteren you used in your project?
+167	What is Concurrent HashMap?
+168	What is Immutable class,Can we create our own Immutable class ?
+169	What are the annotation you used in spring boot which you used in your project?
+170	What is Accuator,Why we use it?
+171	What is use of functional interface?
+172	Write a Code to find 2nd largest number in an array?
+173	What is difference b/w List and Set?
+174	What type of Exception do you know and where they are use for?
+175	How to create Custom Exception?
+176	How HashSet internally work?
+177	What is the pupose of the peek operation in Java 8 Stream?
+178	How does the limit operation work in Java 8 Stream?
+179	Can you provide an example of how might we use the finally block in Exception handeling?
+	If I don't want to use finally block then what another operation we can use?
+180	What is the purpose of autoboxing and unboxing in java?
+181	How can you enable caching in Spring data application?
+182	What are some common strategies for Database Schema management in Spring data project?
+183	What is Spring boot Auto-configuration and Why is it imporatnt?
+184	How can you exclude specific auto-configuration class in spring boot?
+185	Can you list down some common Spring boot starter dependencies you use in web application development?
+186	What is Starter dependency concept in Spring boot ?
+187	What is the purpose of the Spring boot starter-test dependency and what libraries does it include?
+188	Explain the difference b/w programmatic and declarative transaction management in spring boot?
+189	Expalin how to write a new Controller with request flow?
+190	What are the deployment option for Spring boot application?
+191	Name some logging framwork supported by spring boot?
+192	What are the default logging levels in spring boot application and how can you change it?
+193	When run an application of spring boot ,you find the logo of Spring at console , how we give our customer name ?
+194	What are the some Database security best pratices?
+195	Explain SQL injection and how to prevent it?
+196	Write a code to print even and doble it using Java 8 ?
+197	What is the diffrenece b/w Authentication and Autorizarion?
+198	"Suppose it is the delevery time and therefore you have to work on weekends,
+	a)At the last moment of the project delevery , the requrement is changed,What you will do at that senario?
+	b) Somebody resigned from the team and there is extra workload on you,the what you will do?
+	c)You are asked to learn a new technology for a new project ,then in that case what you will do?
+	d) You are introduced in a project with tight deadline ,client is not happy and not staified with your implementation,What you will do?
+	Describe the time when you handel high pressure or the challenging situation?"
+199	What is imporatance and contract b/w hascode() and equal() method
+200	What is benefit of ConcurrentHashMap?
+201	What is AutoCloseable interface?
+202	What will the major reasons of memory leak , give some senario? How will you handel memory leakes?
+203	What is volatile keyword?
+204	What builder design pattern?
+205	What is SOLID principle?
+206	What are the scopes of Spring bean?
+207	What is the use of @Qualifier annotation?
+208	Suppose we have to develop RESTApis from scratch, that Api will return list of Employees ,What are the Step do you follow from Starting?
+209	What is the difference b/w Constructor and Setter injection in Spring?
+210	In Spring boot how we read the property from properties files?
+211	What is the use of method reference in Java 8 ?
+212	In java 8 , there is some changes made in HashMap, what new changes made and Why?
+213	In database , What is indexing?
+214	How many types of Indexing?
+215	While writing Sql Queries , what are the Best practices , so that the performance is not degraded?
+216	In Microservices architecture , what are the challenges we face while development?
+217	What are the benefit of micro services over monolithic architecture?
+218	What is the role of API Gateway?
+219	What is circuit breaker , why we use it?
+220	How two services communicate each other.
+221	What are the difference b/w synchonous communication and non-syncronous communication?
+222	What is Servlet?
+223	What is Generic and HttpServlet?
+224	What is the use of Callable interface?
+225	What is the real world use of Polymorphism?
+226	Suppose we don't want to serialize some of the property ,then what we can do ?
+227	What is Var args in java ?Where we can use this give any example?
+228	How ConcurrentHashMap works interanally?
+229	When we should go enum?
+230	In spring boot how we change default server like Tomcat to any other Web Server?
+231	What is the use of Dev-tool in Spring boot?
+232	There is a @Configuration , suppose we do not want to include any of the configuration on some condition, how we can do that ,
+	Otherwise it pick up all the configuration file from the dependency?
+233	What is the default scope of Spring?
+234	What is the type of Autowiring?
+235	What autowire is default used for dependency injection?
+236	What is the life cycle of Spring Bean?
+237	For Securing your web services or your application , what is the best and what are the option available?
+238	Have you use Oauth ,How Oauth internally work?
+239	Write a program exactly same as ArrayList Implemtation, wher we have get() , add(), remove() and size() method?
+240	Write a program to find the copunt of repeating Words more than one occurrence?
+241	Suppose we have duplicate or similar ids of multiple employee , then how to find those duplicate id's of employee?
+242	Write a program in java 8 stream , to find or print employee details who's salary more than 10000(fields are name, id, salary)?
+243	Suppose you have String ="Gurugram" , and n=2, Print o/p as Gu ru gr am, by subString it into 2 word?
+244	How to find multiple request coming to your controller? How we handel such multiple request?Find the count of the request also?
+245	How you restrict user to enter Controller class?
+246	Write a program where i/p =["103","56",987",589","99","11111"] and o/p should be-> [103,11111,56,99,589,987]
+247	Tell me your understanding on Singleton,What do you mean by Singleton and how do we create Singleton class in java?
+248	In Spring boot how singleton bean scope internally work?
+249	How you do test on Singleton ,either how you go for Junit to know that it is Creating an one instance?
+250	Let say I have a senario wher I am looking for data structure which should gaurentee uniqueness and maintain the insertion order.Which data structure you prefer?
+251	You also used hashmap a lots of time , let say you have Employee object and in that employee id as key which is long or Integer type ,So Employee key stored in HashMap,
+	I have override equals method property, but I haven't override hashCode, Will be any impact on hashmap or how it behaves?
+252	What is default hashcode return by Object class?
+253	Suppose we have a senario where we have equlas() method not overriden and I override hashCode() given proper hascode implementation to make sure there is no has Collision,
+	Then How HasMap will behave and What will be impact on performance?
+254	Is there any senario where we go for immutable class ,What is genral use case when someone try to mutate the immutability?
+255	What is the difference b/w funtion and perdicate?
+256	What is the meaning of Thread safe?
+257	How many ways we create threads in java?
+258	What is difference b/w Runnable and Callable interface?
+259	What is mean of Future Object, What it does it do?
+260	What is ThreadLocal?
+261	What is the new feature introduced in java 8?
+262	Why java introduced default and static methods in the interface?
+263	Can you give me example of any defaul method avialable in java?
+264	What the main purpose of using Stream Api?
+265	What is the default value (Capacity and loadFactor) of hashMap?
+266	What is the means of 0.75 load factory?
+267	How hashMap and TreeMap are different?
+268	What is the difference b/w HashMap and ConcurrentHashMap?
+269	What is fail safe collection and fail fast collection?
+270	What is the Properties class in java ? When we use this Properties class?
+271	What are new changes that happen in Collection Framwork in 1.8 java version?
+272	What are the common Exception you would face while coding?
+273	What is the difference b/w throw and throws?
+274	What is deadLock ?When genrally we face deadlock situtation, Give an example?
+275	What is Race Condition?
+276	What a impact of declaring a method as final on inheritence?
+277	Can static block throws an exception?
+278	Which one is better constructor or setter injection and why ?
+279	What are REST api best practices like what you follow in your project?
+280	What is the purpose of Spring boot starter parent?
+281	How to enable debbuging logs in Spring boot Application?
+282	How you programmitically determine which profile are currently active in spring boot application?
+283	What are the Status code do you know in Client -server architecture? Explain each one of them?
+284	Can you expalin when we use @Bean annotation?
+285	Can you explain the purpose of Pom.xml in our maven project?
+286	What is the role of @Test in Spring boot application if you done testing?
+287	What is the purpose of Unite Testing in youer Software Development area?
+288	Difference b/w WAR and Embedded container?
+289	Where should we use RequestMapping and GetMapping?What is the Difference b/w them?
+290	Difference b/w @restController and @Controller?
+291	Can we disable the default Web server in spring boot application and how will you disable it?
+292	What is the default port of Tomcate?
+293	What is the Default port for MySql database?
+294	Is it possible to change the port the emmbedded Tomacte Server in Spring boot Applicaton?
+295	What is Spring boot dependency management?
+296	What is the logging tool you are using and how did you intergate that?
+297	What stategies you use majaorly for handeling Exception?
+298	For monitoring of your application whay you have implemented?
+299	Difference b/w @PathVariable and @Params
+300	Difference b/w @PostMapping and @PutMApping?
+301	Difference b/w @PutMapping and @PatchMApping?
+302	What is diffrence b/w Application Server and Web Server?
+303	Difference b/w RestTemplate and WebClient or HTTPClient and JBDCTEmplate, When we use and Where?
+304	Have you work on Spring Security then which tool you use for Secure your application?
+305	Do you know about JWT token?
+306	What is @SpringBootApplication?
+307	What is IOC Container in Spring Framwork?
+308	What is the use of @OneToMany, @ManyToMany,@OneToOne,@JoinColumn and @ManyToOne?
+309	Where we use @JoinTable and @InverseJoinColumn?
+310	What is @JsonIgnore?
+311	What is ApplicationContext?
+
+
+
+
+
