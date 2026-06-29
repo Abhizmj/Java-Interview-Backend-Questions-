@@ -1,0 +1,9 @@
+1) Create a own custom singleton class in java ? How you make safe from multi threaded enviroment?
+2) What are Record in java? When its introduced? Is Records are completly immutable? Can we have methods in Recodes?
+3) What are the methods present in Object class?
+4) What is the N+1 Query problem?
+5) If we have Arrays.asList(1,2,3); and if we want to add an element ,is it being added ?If Yes then waht will be the size and if No then how we add it ?
+6) What is the diffrence b/w List.of() and Arrays.asList()? When we use both and at what senario we use it among which ?
+7) What does List.of() return and Is it modifiable?
+8) What is diffrence b/w Collections.unmodifiableList() and List.of()?
+
